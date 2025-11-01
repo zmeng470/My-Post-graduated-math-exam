@@ -1,4 +1,8 @@
 # My-Post-graduated-math-exam
+
+2011-2025年数学一考点题型及分数分布
+https://www.xiaohongshu.com/discovery/item/68d3b786000000001202fa89?source=webshare&xhsshare=pc_web&xsec_token=ABUnyKbIE8ETCEDNRH-Rad-T8s0HkmhAN2bVWA9LgQckY=&xsec_source=pc_share
+
 捷径是最大的弯路 迎难而上才是最快的捷径
 
 1.Precalculus + Calculus + Liner + probability
