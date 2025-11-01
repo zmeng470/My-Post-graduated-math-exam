@@ -1,5 +1,4 @@
 # My-Post-graduated-math-exam
-A journey about math
 捷径是最大的弯路 迎难而上才是最快的捷径
 
 1.Precalculus + Calculus + Liner + probability
